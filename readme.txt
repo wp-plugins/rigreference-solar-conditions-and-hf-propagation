@@ -33,7 +33,7 @@ The widget is based on solar-terrestrial data from the National Oceanic and Atmo
 == Changelog ==
 
 = 1.0 =
-* First public releae.
+* First public release.
 
 == Upgrade Notice ==
 
