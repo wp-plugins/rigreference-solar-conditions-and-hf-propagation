@@ -1,0 +1,44 @@
+=== RigReference HF-Propagation ===
+Contributors: rigreference
+Donate link: http://rigreference.com/solar
+Tags: ham, radio, hf, solar, propagation, conditions
+Requires at least: 2.8
+Tested up to: 3.2.1
+Stable tag: 1.0
+
+The widget displays Solar and HF-propagation conditions based on NOAA data.
+
+== Description ==
+
+The widget displays Solar and HF-propagation conditions based on NOAA data. This data can be used by ham radio operators to determine the best time to make long-range communications on shortwave bands (160 to 10 meters)
+
+== Installation ==
+
+1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Frequently Asked Questions ==
+
+= What is HF-propagation? =
+
+HF-propagation is the way in which radio waves travel through the earth's atmosphere. Many different factors influence propagation; time of day, temperature, weather and solar activity.
+
+= On what data is the widget based? =
+
+The widget is based on solar-terrestrial data from the National Oceanic and Atmospheric Administration (NOAA). They have a wealth of information available for anyone interested. Among others, they measure solar activity and make it available - as raw text - here: http://www.swpc.noaa.gov/ftpdir/latest/
+
+== Screenshots ==
+
+
+
+== Changelog ==
+
+= 1.0 =
+* First public releae.
+
+== Upgrade Notice ==
+
+= 1.0 =
+Emtpy for now
+
+
