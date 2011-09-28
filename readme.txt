@@ -1,7 +1,7 @@
 === RigReference HF-Propagation conditions ===
 Contributors: rigreference
 Donate link: http://rigreference.com/solar
-Tags: ham, radio, hf, solar, propagation, conditions
+Tags: ham, radio, amateur radio, hf, shortwave, solar, propagation, conditions
 Requires at least: 2.8
 Tested up to: 3.2.1
 Stable tag: 1.0.0
@@ -19,6 +19,10 @@ With this WordPress widget you can now add the solar widget to your blog easy an
 
 1. Upload `rigref-solar-widget.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Screenshots ==
+settings.png
+layouts.png
 
 == Frequently Asked Questions ==
 
