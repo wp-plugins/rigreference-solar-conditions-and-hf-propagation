@@ -4,7 +4,7 @@ Donate link: http://rigreference.com/solar
 Tags: ham, radio, hf, solar, propagation, conditions
 Requires at least: 2.8
 Tested up to: 3.2.1
-Stable tag: 1.0
+Stable tag: 1.0.0
 
 The widget displays Solar and HF-propagation conditions based on NOAA data.
 
