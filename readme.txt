@@ -21,8 +21,8 @@ With this WordPress widget you can now add the solar widget to your blog easy an
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Screenshots ==
-settings.png
-layouts.png
+1. Settings
+2. Layouts
 
 == Frequently Asked Questions ==
 
