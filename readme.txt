@@ -21,7 +21,7 @@ With this WordPress widget you can now add the solar widget to your blog easy an
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Screenshots ==
-1. Settings, choose between Tall (160×335 pixels) and Wide (320×100 pixels) layouts. The settings are available at WP Admin >> Appearance >> Widgets.
+1. Settings, choose between Tall (160Ã—335 pixels) and Wide (320Ã—100 pixels) layouts. The settings are available at WP Admin >> Appearance >> Widgets.
 2. Layout examples. The widget always shows the current solar conditions. The time in the image indicates the measurement time.
 
 == Frequently Asked Questions ==
@@ -34,7 +34,7 @@ HF-propagation is the way in which radio waves travel through the earth's atmosp
 
 The widget is based on solar-terrestrial data from the National Oceanic and Atmospheric Administration (NOAA). They have a wealth of information available for anyone interested. Among others, they measure solar activity and make it available - as raw text - here: http://www.swpc.noaa.gov/ftpdir/latest/
 
-= The time appears to be wrong =
+= What about the widget's time? =
 The time in the image indicates the time of the measurement at NOAA. It does <em>not</em> indicate local or server time!
 
 = More questions =
