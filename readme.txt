@@ -1,7 +1,7 @@
 === RigReference HF-Propagation conditions ===
 Contributors: rigreference
 Donate link: http://rigreference.com/solar
-Tags: ham, radio, amateur radio, hf, shortwave, solar, propagation, conditions
+Tags: ham, radio, amateur radio, hf, shortwave, solar, propagation, conditions, image, sidebar, widget
 Requires at least: 2.8
 Tested up to: 3.2.1
 Stable tag: 1.0.0
